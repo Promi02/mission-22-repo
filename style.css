@@ -54,8 +54,9 @@ a{
     margin: 20px;   
 }
 .width-half img{
-    width: 80%;
-    margin-bottom: 100px;
+    width: 70%;
+    margin-top: 100px;
+    padding-left: 50px;
 }
 
 #up{
@@ -97,8 +98,8 @@ a{
     margin-left: 80px;
 }
 #img4{
-margin-left: 30px;
-padding-left: 30px;
+margin-left: 15px;
+padding-left: 50px;
 }
 .head3{
     padding-right: 50px;
@@ -114,7 +115,7 @@ padding-left: 30px;
     margin-top: -200px;
 }
 #last{
-    background-color: rgb(17, 12, 54);
+    background-color: rgb(6, 33, 68);
     height: 180px;
     padding: 0px;
     margin-top: 40px;
