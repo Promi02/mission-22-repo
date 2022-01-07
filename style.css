@@ -21,7 +21,8 @@ p{
 .top-sec{
     display: flex;
     height: 670px;
-    padding-left: 50px;
+    padding: 0px 100px;
+    margin-top: -30px;
 }
 .head{
     color: rgb(220, 20, 120); 
@@ -55,12 +56,13 @@ a{
 }
 .width-half img{
     width: 70%;
-    margin-top: 100px;
-    padding-left: 50px;
+    margin-top: 80px;
+    padding-left: 10px;
 }
 
 #up{
-    margin-top: -64px;
+    margin-top: -80px;
+    
 }
 .box-sec{
     display: flex;
@@ -98,7 +100,8 @@ a{
     margin-left: 80px;
 }
 #img4{
-margin-left: 15px;
+    margin-top: 50px;
+margin-left: 50px;
 padding-left: 50px;
 }
 .head3{
@@ -139,6 +142,10 @@ padding-left: 50px;
 #last span{
     color: rgb(255, 0, 55);
 }
+#fifth
+{
+    margin-top: 30px;
+}
 
 #fifth img{
     margin-left: 330px;
@@ -151,7 +158,7 @@ text-align: justify;
 }
 #fifth button{
     margin-left: 5%;
-    margin-top: -10px;
+    margin-top: -50px;
     
 }
 
