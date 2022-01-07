@@ -28,7 +28,7 @@ p{
 }
 button{
     border-radius: 10px;
-    height: 50px;
+    height: 40px;
     width: 150px;
     color: rgb(255, 255, 255);
     background-color: rgba(216, 74, 74, 0.815);
@@ -139,13 +139,19 @@ padding-left: 50px;
 #last span{
     color: rgb(255, 0, 55);
 }
+
 #fifth img{
     margin-left: 330px;
     margin-right: 250px;
     width: 50%;
 }
 #fifth p{
-padding: 5px 40px;
+padding: 20px 70px;
 text-align: justify;
+}
+#fifth button{
+    margin-left: 5%;
+    margin-top: -10px;
+    
 }
 
