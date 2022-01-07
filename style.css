@@ -139,4 +139,13 @@ padding-left: 50px;
 #last span{
     color: rgb(255, 0, 55);
 }
+#fifth img{
+    margin-left: 330px;
+    margin-right: 250px;
+    width: 50%;
+}
+#fifth p{
+padding: 5px 40px;
+text-align: justify;
+}
 
