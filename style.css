@@ -1,0 +1,141 @@
+body
+{
+background-color: rgba(255, 255, 255, 0.849);
+font-family: 'Playfair Display', serif;
+}
+.border{
+    border-left: 5px solid;
+    border-left-color:rgb(214, 36, 95);
+    padding-left: 20px;
+    margin-top: 150px;
+    line-height: 40px;
+    border-radius: 5px;
+}
+p{
+    
+    font-family: 'Roboto', sans-serif;
+}
+.border h1{
+    font-size: 50px;
+}
+.top-sec{
+    display: flex;
+    height: 670px;
+    padding-left: 50px;
+}
+.head{
+    color: rgb(220, 20, 120); 
+}
+button{
+    border-radius: 10px;
+    height: 50px;
+    width: 150px;
+    color: rgb(255, 255, 255);
+    background-color: rgba(216, 74, 74, 0.815);
+    font-weight:normal;
+    font-size: 18px;
+    border: none; 
+    
+    
+    
+}
+a{
+    text-decoration: none;
+    color: white ;
+    
+}
+#size{
+    font-size: 15px;
+    }
+
+.width-half{
+   padding: 20px;
+    width: 50%;
+    margin: 20px;   
+}
+.width-half img{
+    width: 80%;
+    margin-bottom: 100px;
+}
+
+#up{
+    margin-top: -64px;
+}
+.box-sec{
+    display: flex;
+    margin: 53px 87px;
+}
+
+ #center{
+        text-align: center;
+        font-size: 42px;
+}
+
+.box{
+    width: 30%;
+    height: 380px; 
+    margin-left: 20px ;
+    margin-right: 20px;
+    border-radius: 20px ;
+    padding: 30px ;
+}
+.box img{
+    height: 140px;
+    width: 120px; 
+}
+.size2{
+    font-size: 34px;
+    margin-top: 45px;
+    line-height: 20px;
+}
+.third-sec{
+   padding: 0px;
+    margin-top: -100px;
+}
+.half{
+    padding-top: 50px;
+    margin-left: 80px;
+}
+#img4{
+margin-left: 30px;
+padding-left: 30px;
+}
+.head3{
+    padding-right: 50px;
+    margin-top: 200px;
+    line-height: 24px;
+
+}
+#head{
+    padding-left: 80px;
+    
+}
+#fourth{
+    margin-top: -200px;
+}
+#last{
+    background-color: rgb(17, 12, 54);
+    height: 180px;
+    padding: 0px;
+    margin-top: 40px;
+    line-height: 0px;
+    
+}
+#head4{
+    text-align: center;
+    font-style: italic;
+    color: white;
+    
+}
+#last h1{
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+    font-style: normal;
+    padding: 50px;
+   
+
+}
+#last span{
+    color: rgb(255, 0, 55);
+}
+
