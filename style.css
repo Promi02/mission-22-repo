@@ -21,7 +21,7 @@ p{
 .top-sec{
     display: flex;
     height: 670px;
-    padding: 0px 100px;
+    padding-left: 100px;
     margin-top: -30px;
 }
 .head{
@@ -56,7 +56,7 @@ a{
 }
 .width-half img{
     width: 70%;
-    margin-top: 80px;
+    margin-top: 50px;
     padding-left: 10px;
 }
 
